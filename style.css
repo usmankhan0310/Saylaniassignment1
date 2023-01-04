@@ -1,0 +1,10 @@
+#abc{
+    background-image: url('./img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
+#abc:focus{
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-image: url('./img2.png');
+}
